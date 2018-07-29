@@ -1,8 +1,9 @@
 ETAPE 2 : Import du fichier sur Git hub
+
 Création d'un fichier .txt et import sur Github
 
-Mode opératoire
 
+Mode opératoire
 - Modifier fichier
 - Mettre à jour l'index avec la commande git add
 - Faire un commit avec la commande git commit -m "description de la modif"
