@@ -1,0 +1,2 @@
+ETAPE 2 : Import du fichier sur Git hub
+Création d'un fichier .txt et import sur Github
